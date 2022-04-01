@@ -5,11 +5,14 @@
  */
 package gui_login;
 
+import java.util.ArrayList;
+
 /**
  *
  * @author Usuario
  */
-public class Prueba {
-    String nombre="Pepe";
+public class Clientes {
+    
+    ArrayList<String> clientes = new ArrayList();
     
 }
