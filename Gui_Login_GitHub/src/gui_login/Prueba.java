@@ -10,5 +10,6 @@ package gui_login;
  * @author Usuario
  */
 public class Prueba {
+    String nombre="Pepe";
     
 }
